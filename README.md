@@ -7,11 +7,11 @@ Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift
  
 ### Most Recent Proejcts
 1. [Memora](https://github.com/asayenju/club_operations_slack_agent)
-   * An agentic operational-memory system for student orgs — real-time multi-source sync, confidence-scored cited answers, and human-in-the-loop reconciliation to keep the record trustworthy.
+
+    * An agentic operational-memory system for student orgs — real-time multi-source sync, confidence-scored cited answers, and human-in-the-loop reconciliation to keep the record trustworthy.
      
 2.  [RepoHero](https://github.com/Hailee-ZHY/RepoHero)
-
-   * An AI-powered codebase assistant that uses LLMs, embeddings, and semantic search to help developers explore repositories, understand architecture, and answer code-related questions more efficiently.
+    * An AI-powered codebase assistant that uses LLMs, embeddings, and semantic search to help developers explore repositories, understand architecture, and answer code-related questions more efficiently.
 
 3. [Deep-Learning-Based Pavement Marking Detection and Classification](https://github.com/Hailee-ZHY/Pavement-Classification)
         
