@@ -6,18 +6,21 @@ Data Scientist / Machine Learning Engineer with **3+** years of experience in **
 Python, SQL, PySpark, PyTorch, TensorFlow, Docker, Kubernetes, AWS (S3, Redshift), GCP, Bash/Linux, CI/CD, REST API
  
 ### Most Recent Proejcts
-1. [RepoHero](https://github.com/Hailee-ZHY/RepoHero)
+1. [Memora](https://github.com/asayenju/club_operations_slack_agent)
+   * An agentic operational-memory system for student orgs — real-time multi-source sync, confidence-scored cited answers, and human-in-the-loop reconciliation to keep the record trustworthy.
+     
+2.  [RepoHero](https://github.com/Hailee-ZHY/RepoHero)
 
    * An AI-powered codebase assistant that uses LLMs, embeddings, and semantic search to help developers explore repositories, understand architecture, and answer code-related questions more efficiently.
 
-2. [Deep-Learning-Based Pavement Marking Detection and Classification](https://github.com/Hailee-ZHY/Pavement-Classification)
+3. [Deep-Learning-Based Pavement Marking Detection and Classification](https://github.com/Hailee-ZHY/Pavement-Classification)
         
     * Pixel-level pavement marking segmentation and classification using Transformer-based deep learning
 
-3. [Containerized and Serverless Deployment of YOLO for Cloud-Based Inference](https://github.com/Hailee-ZHY/Distributed-Deployment-and-Benchmarking-of-YOLO-Inference)
+4. [Containerized and Serverless Deployment of YOLO for Cloud-Based Inference](https://github.com/Hailee-ZHY/Distributed-Deployment-and-Benchmarking-of-YOLO-Inference)
 
     * Deployed YOLOv8 inference as a containerized REST service on GKE and Cloud Run, and benchmarked latency, throughput, and resource utilization under real workloads
-4. [PointNet-Attn: Attention-Driven 3D Point Cloud Learning Framework](https://github.com/Hailee-ZHY/CloudPoint)
+5. [PointNet-Attn: Attention-Driven 3D Point Cloud Learning Framework](https://github.com/Hailee-ZHY/CloudPoint)
 
     * Enhancing PointNet with Multi-Head Self-Attention and Local Neighborhood Aggregation for 3D Object Classification
 
